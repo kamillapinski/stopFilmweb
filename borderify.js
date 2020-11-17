@@ -1,3 +1,3 @@
-for(dzieci of document.getElementsByClassName("page HomePage homePage")){
-    dzieci.style.visibility = 'hidden';
+for (element of document.getElementsByClassName("page HomePage homePage")) {
+    element.style.visibility = 'hidden';
 }
